@@ -2,10 +2,10 @@
 "small_diameter" = 1/8in
 "arc_height" = 1/32in
 "chain_space" = 1/2in
-"chain_thickness" = 1/32in
+"chain_thickness" = 1/16in
 "outer_height" = 3/16in
 "inner_height" = 2/16in
-"give" = 1/64in
+"give" = 1/16in
 "board_base" = 10
 "board_rows" = 3
-
+"num_links"=1

@@ -1,0 +1,21 @@
+Part Features Used
+Linear Patterns
+Fillets
+Equations
+
+Assembly Features Used
+Linear Chain Pattern
+Equations
+
+Manufacturing Technique
+3D Printing.
+
+Admitted Flaws with the Chain adder Version 1.
+The chains are really brittle, if I had more time to reprint them I would
+try to redesign them to be less brittle. It is really hard though
+because of the size constraint I wanted. I wanted them to be small.
+
+My project is really cool.
+Used alot of solid works features.
+took a unique theoretical idea and brung it to life.
+:) pls give me an A.

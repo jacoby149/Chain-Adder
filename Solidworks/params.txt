@@ -8,4 +8,4 @@
 "give" = 1/16in
 "board_base" = 10
 "board_rows" = 3
-"num_links"=1
+"num_links"=3
